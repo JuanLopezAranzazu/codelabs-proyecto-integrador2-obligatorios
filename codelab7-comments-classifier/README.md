@@ -20,3 +20,8 @@ Para correr el programa usar el siguiente comando:
 ```bash
 python main.py
 ```
+
+## Resultados
+
+### Clasificación de comentarios
+![Clasificación de comentarios](/codelab7-comments-classifier/images/clasificacion-comentarios.png)

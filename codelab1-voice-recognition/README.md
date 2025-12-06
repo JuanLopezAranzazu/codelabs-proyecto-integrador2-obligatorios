@@ -66,3 +66,8 @@ Para correr el programa usar el siguiente comando:
 ```bash
 python voz_archivo.py
 ```
+
+## Resultados
+
+### Reconocimiento de voz
+![Reconocimiento de voz](/codelab1-voice-recognition/images/reconocimiento-voz.png)

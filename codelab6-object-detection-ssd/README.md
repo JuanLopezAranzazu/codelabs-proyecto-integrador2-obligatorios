@@ -22,3 +22,14 @@ python ssd_image.py
 python yolo_image.py
 python ssd_visualize.py
 ```
+
+## Resultados
+
+### Resultado detección SSD en imagen
+![Resultado SSD](/codelab6-object-detection-ssd/images/resultado-ssd-imagen.png)
+
+### Resultado detección YOLO en imagen
+![Resultado YOLO](/codelab6-object-detection-ssd/images/resultado-yolo-imagen.png)
+
+### Resultado visualización cajas SSD
+![Visualización cajas SSD](/codelab6-object-detection-ssd/images/resultado-ssd-visualizacion.png)

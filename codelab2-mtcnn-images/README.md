@@ -20,3 +20,13 @@ Para correr el programa usar el siguiente comando:
 ```bash
 python main.py
 ```
+
+## Resultados
+
+### Resultado grupo de personas
+![Grupo de personas](/codelab2-mtcnn-images/images/resultado-grupo.png)
+
+### Resultado MTCNN detección
+![MTCNN detección](/codelab2-mtcnn-images/images/resultado-mtcnn-imagenes.png)
+
+

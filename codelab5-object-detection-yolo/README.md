@@ -35,3 +35,9 @@ python detect_image.py
 python detect_webcam.py
 python export_json.py
 ```
+
+## Resultados
+
+### Resultado de detección en imagen
+![Detección en imagen](/codelab5-object-detection-yolo/images/resultado-yolo-lite-imagen.png)
+

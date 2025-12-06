@@ -20,3 +20,9 @@ Para correr el programa usar el siguiente comando:
 ```bash
 python main.py
 ```
+
+## Resultados
+
+### Resultado Compuerta XOR
+![Resultado Compuerta XOR](/codelab4-tensorflow-keras-xor/images/resultado-compuerta-xor.png)
+
